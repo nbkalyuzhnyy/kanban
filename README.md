@@ -1,6 +1,6 @@
 # Kanban-доска на Django, DRF & Alpine.js 
 
-## [Туториал для Selectel](https://selectel.ru/blog/tutorials/develop-canban-board-on-django-drf-alpine-js/)
+## [Туториал для Всех]((http://dev.kalyuzhnyy.ru/?p=1994)/)
 
 ![kanban1](https://user-images.githubusercontent.com/85797091/206715749-f5d4e15f-8d01-4d6c-ae4a-b58e8ab334e3.png)
 
